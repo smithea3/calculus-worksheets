@@ -4,5 +4,27 @@
   <title>Section Title</title>
 
   <p> Text of section. </p>
+  <exercises xml:id="exercises-example">
+    <exercise>
+      <statement>
+        <p>
+          Solve the following equation.
+          <me>
+            x^2-1=0
+          </me>
+          
+        </p>
+      </statement>
+      <solution>
+        <p>
+          <me>
+            x=\left\{-1, 1\right\}
+          </me>
+          
+        </p>
+      </solution>
+    </exercise>
+    
+  </exercises>
 
 </section>
